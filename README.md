@@ -36,6 +36,6 @@ SQL queries utilize advanced functions such as self join, case when, trigger, su
 
 ## Files in the Repository:
 
-1.Airline Booking System CreateTables.sql: Contains the code for creating tables and populating initial data.
-2.Airline Booking System Code Queries.sql: Contains SQL queries answering various business questions.
-3.Airline Booking System.pdf: The project report and summary.
+1. Airline Booking System CreateTables.sql: Contains the code for creating tables and populating initial data.
+2. Airline Booking System Code Queries.sql: Contains SQL queries answering various business questions.
+3. Airline Booking System.pdf: The project report and summary.
